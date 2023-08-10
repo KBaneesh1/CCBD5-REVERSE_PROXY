@@ -13,6 +13,7 @@
     "nodemon": "^2.0.22"
   },
   "dependencies": {
+    "async-mutex": "^0.4.0",
     "axios": "^1.4.0",
     "http": "^0.0.1-security",
     "http-proxy": "^1.18.1",
